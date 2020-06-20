@@ -6,3 +6,4 @@ Die Insel war unbewohnt und er musste dort sein tägliches Leben meistern. Nach 
 * willensstark
 * mutig
 * geschickt
+> Wir lernen den Wert der Dinge erst dann kennen, wenn wir sie verloren haben.
