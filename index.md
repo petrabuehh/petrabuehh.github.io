@@ -7,3 +7,4 @@ Die Insel war unbewohnt und er musste dort sein tägliches Leben meistern. Nach 
 * mutig
 * geschickt
 > Wir lernen den Wert der Dinge erst dann kennen, wenn wir sie verloren haben.
+<img src="https://cdn.pixabay.com/photo/2014/04/11/14/08/robinson-crusoe-321688_960_720.jpg"/>
